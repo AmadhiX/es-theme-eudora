@@ -6,7 +6,7 @@
 	<view name="system">
 	<!-- System Specific Images -->
 		<image name="logo">
-			<path>./logo.svg</path>
+			<path>./logo.svg</path>			
         </image>
 		
 		<image name="overlay" extra="true">
@@ -22,18 +22,6 @@
 		
 		<image name="overlay" extra="true">
 			<path>./controller.svg</path>
-		</image>		
-		
-	<!-- Game List -->
-		<image name="gamelist-matte" extra="true">
-			<size>0.685 0.7745</size>
 		</image>
-		
-		<textlist name="gamelist">
-			<size>0.685 0.71</size>
-			<fontSize>0.037</fontSize>
-			<lineSpacing>1.56</lineSpacing>
-			<forceUppercase>0</forceUppercase>
-		</textlist>
 	</view>
 </theme>
