@@ -54,6 +54,8 @@ Everything else, including the colorset, should apply to the new layout automati
 
 
 === Credits ===
+Bug fixes and updates by Steve Boswell (Choccyhobnob)
+
 All xml, all sounds, and some images created by AmadhiX.
 
 Based on the "Carbon" theme by Eric Hettervik, which is in turn based on "Simple" by Nils Bonenberger.  Most system logos and line art images are borrowed from these themes.
