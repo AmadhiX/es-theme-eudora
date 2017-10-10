@@ -1,7 +1,7 @@
 <theme>
     <formatVersion>3</formatVersion>
     <include>./../common.xml</include>
-	<include>./../common/templates/landscape.xml</include>
+	<include>./../common/templates/pic_and_desc.xml</include>
 
 	<view name="system">
 	<!-- System Specific Images -->
