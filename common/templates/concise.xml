@@ -3,6 +3,30 @@
 	
 <!-- Game View - Detailed -->	
 	<view name="detailed">
+		<image name="md_image">
+			<origin>0.5 0.5</origin>
+			<pos>0.60205 0.55</pos>
+			<maxSize>0.3125 0.5555</maxSize>
+		</image>
+	</view>
+
+<!-- Game View - Video -->
+	<feature supported="video">
+		<view name="video">
+			<video name="md_video">
+				<origin>0.5 0.5</origin>
+				<pos>0.60205 0.55</pos>
+				<maxSize>0.3125 0.5555</maxSize>
+				<showSnapshotNoVideo>true</showSnapshotNoVideo>
+				<showSnapshotDelay>true</showSnapshotDelay>
+				<delay>2</delay>
+				<default></default>
+			</video>
+		</view>
+	</feature>
+
+<!-- Game View - Detailed, Video -->
+	<view name="detailed, video">
 	
 	<!-- Game Image 600x600 -->
 		<image name="image-matte" extra="true">
@@ -10,12 +34,6 @@
 			<origin>0.0 0.0</origin>
 			<pos>0.42 0.235</pos>						
 			<size>0.3641 0.63</size>
-		</image>
-		
-		<image name="md_image">
-			<origin>0.5 0.5</origin>
-			<pos>0.60205 0.55</pos>
-			<maxSize>0.3125 0.5555</maxSize>
 		</image>
 		
 	<!-- Metadata -->			
