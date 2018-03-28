@@ -37,7 +37,7 @@
 	
 	
 <!-- Game View - All -->
-    <view name="basic, detailed">
+    <view name="basic, detailed, video">
 	<!-- Page Layout -->
 		<image name="background" extra="true">
 			<path>./../images/binding_dark.png</path>
@@ -102,8 +102,8 @@
 	</view>
 
 
-<!-- Game View - Detailed -->
-	<view name="detailed">
+<!-- Game View - Detailed, Video -->
+	<view name="detailed, video">
 	<!-- Game Image -->
 		<image name="image-matte" extra="true">
 			<color>EDF7FFCC</color>

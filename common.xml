@@ -45,7 +45,7 @@ based on:		"carbon" by eric hettervik
 
 
 <!-- Game View - All -->
-    <view name="basic, detailed">
+    <view name="basic, detailed, video">
 	<!-- Page Layout -->
 		<image name="background" extra="true">		
 			<origin>0 0</origin>
@@ -139,8 +139,8 @@ based on:		"carbon" by eric hettervik
 	</view>
 
 
-<!-- Game View - Detailed -->
-	<view name="detailed">
+<!-- Game View - Detailed, Video -->
+	<view name="detailed, video">
 	<!-- Metadata -->
 		<text name="md_lbl_players, md_lbl_genre, md_lbl_developer, md_lbl_publisher, md_lbl_releasedate">
 			<fontPath>./common/fonts/Lato-Black.ttf</fontPath>
